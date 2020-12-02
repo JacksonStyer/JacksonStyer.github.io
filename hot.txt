@@ -1,7 +1,0 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Hot Dog</h1>
-<p>Hot Dog.</p>
-</body>
-</html>
